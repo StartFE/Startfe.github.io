@@ -261,3 +261,21 @@ margin-bottom: 11%;
 .job-block > a{
     padding-left: 10px;   
 }
+
+#job-lst-line{
+    background: #FDB724;
+    height: 7px;
+     width: 90%;
+    margin-right: 10%;
+    
+}
+ 
+
+
+#job-info-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 10%;
+    width: 90%;
+}
