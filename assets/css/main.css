@@ -267,7 +267,7 @@ color: #FDB724;
 }
 
 #get-notified{
-background: #C4C4C4;
+background: #C9C9C9;
 box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
 font-weight: 900;
 border: none;
@@ -285,7 +285,7 @@ text-align: center;
 }
 
 #get-notified:hover{
-    background-color: #d1cdcd;
+    background-color: #d3d3d3;
 }
 
 .share-link-home{
