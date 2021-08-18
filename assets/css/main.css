@@ -284,6 +284,9 @@ height: 10.5vmin;
 text-align: center;
 }
 
+#get-notified:hover{
+    background-color: #d1cdcd;
+}
 
 .share-link-home{
     display: flex;
