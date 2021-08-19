@@ -89,7 +89,7 @@
     color: #000000;
 }
 
-@media screen and (max-width:480px){
+@media screen and (max-width:640px){
     .job-details-data2 > ul {
         font-weight: 400;
         font-size: 1.66vw;
@@ -102,8 +102,23 @@
         
     } 
 }
+@media screen and (min-width:641 px) and (max-width:1007 px){
+    .job-details-data2 > ul {
+        font-weight: 400;
+        font-size: 1.66vw;
+        line-height: 1.75;
+        font-style: normal;
+        color: #000000;
+        margin-left:-5%;
+        list-style-type: disc;
+        
+        
+    } 
+}
 
-@media screen and (min-width:480px){
+
+
+@media screen and (min-width:1008px){
     .job-details-data2 > ul {
         font-weight: 400;
         font-size: 1.66vw;
