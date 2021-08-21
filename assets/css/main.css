@@ -52,8 +52,8 @@ body {
 
 .logo-container .company-logo{
     margin-top: 8%;
-    width: 32vmax;
-    height: 8vmin;
+    width: 32vw;
+    height: 8vh;
     /*width: 174px;
     height: 38px; */
     background: url(/assets/images/Layer1.svg);
@@ -66,7 +66,7 @@ body {
     padding-top: 3%; 
     font-weight: 900;
     font-size: 48px;
-    font-size: 3.6vmax;
+    font-size: 3.6vw;
     line-height: 115%;
     width: 75%
 }
@@ -74,7 +74,7 @@ body {
 .logo-container #leap{
     font-weight: 400;
     font-size: 24px;
-    font-size: 1.8vmax;
+    font-size: 1.8vw;
     line-height: 175%;
     padding-top: 2%;
     padding-bottom: 3%;
