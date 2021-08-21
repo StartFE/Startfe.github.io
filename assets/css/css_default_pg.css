@@ -67,13 +67,22 @@
     padding-bottom: 3%;
 }
 
-#job-lst-line-second-page{
+hr {
+  background: #fdb724;
+  height: 0.8vmin;
+  width: 110%;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  
+}
+/* #job-lst-line-second-page{
     background: #FDB724;
-   /* height: 7px; */
+   
     height: .8vmin;
      width: 110%;
     
 }
+*/
 
 .second-page-headline{
     font-weight: 900;
