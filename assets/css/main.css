@@ -66,7 +66,7 @@ body {
     padding-top: 3%; 
     font-weight: 900;
     font-size: 48px;
-    font-size: 3.6vw;
+    font-size: 3.6vmax;
     line-height: 115%;
     width: 75%
 }
@@ -74,7 +74,7 @@ body {
 .logo-container #leap{
     font-weight: 400;
     font-size: 24px;
-    font-size: 1.8vw;
+    font-size: 1.8vmax;
     line-height: 175%;
     padding-top: 2%;
     padding-bottom: 3%;
