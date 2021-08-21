@@ -52,8 +52,8 @@ body {
 
 .logo-container .company-logo{
     margin-top: 8%;
-    width: 32vw;
-    height: 8vh;
+    width: 32vmax;
+    height: 8vmin;
     /*width: 174px;
     height: 38px; */
     background: url(/assets/images/Layer1.svg);
