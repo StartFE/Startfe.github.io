@@ -130,7 +130,7 @@ color: #FFFFFF;
 #job-lst-txt{
 font-weight: 900;
 font-size: 36px;
-font-size: 3vw;
+font-size: 3vmax;
 line-height: 175%;
 /* or 63px */
 color: #FDB724;
