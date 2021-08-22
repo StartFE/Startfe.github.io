@@ -316,7 +316,19 @@ text-align: center;
     background-color: #d3d3d3;
 }
 
-.share-link-home{
+@media screen and (max-width:640px){
+    .share-link-home{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 10%;
+    width: 40%;
+  /*  height: 56px; */
+    padding-bottom: 3%; 
+}
+}
+
+@media screen and (min-width:641px){
+   .share-link-home{
     display: flex;
     justify-content: space-evenly;
     padding-right: 10%;
@@ -324,6 +336,9 @@ text-align: center;
   /*  height: 56px; */
     padding-bottom: 3%; 
 }
+}
+
+
 
 #shr_pg{
 font-weight: 600;
