@@ -58,13 +58,7 @@
 }
 }
 
-.row1-default{
-    margin-top: 2%;
-    display: flex;
-    flex-flow: column;
-    justify-content: space-between;
-    width: 120%;
-}
+
 
 #view_jobs_lnk{
     font-style: normal;
