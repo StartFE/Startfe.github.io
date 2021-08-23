@@ -343,7 +343,7 @@ text-align: center;
 @media screen and (max-width:640px){
     .share-link-home{
     display: flex;
-   justify-content: space-evenly;
+   justify-content: flex-start;
     padding-right: 10%;
     width: 40%;
   /*  height: 56px; */
