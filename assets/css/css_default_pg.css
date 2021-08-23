@@ -39,6 +39,25 @@
     margin-left: 11%;
 }
 
+@media screen and (max-width:640px){
+    .row1-default{
+    margin-top: 2%;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    width: 120%;
+}
+}
+
+@media screen and (min-width:641px){
+    .row1-default{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    width: 120%;
+}
+}
+
 .row1-default{
     margin-top: 2%;
     display: flex;
