@@ -345,6 +345,7 @@ text-align: center;
     display: flex;
    justify-content: flex-start;
     padding-right: 10%;
+     margin-top: 3%;
     width: 40%;
   /*  height: 56px; */
     padding-bottom: 3%; 
@@ -356,6 +357,7 @@ text-align: center;
     display: flex;
    /* justify-content: space-evenly;  */
     padding-right: 10%;
+    
     width: 30%;
   /*  height: 56px; */
     padding-bottom: 3%; 
