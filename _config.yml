@@ -4,3 +4,5 @@ collections:
     output: true
 
 
+
+theme: jekyll-theme-cayman
