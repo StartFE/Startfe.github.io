@@ -1,9 +1,9 @@
 ---
-title: DB Developer
-description: Apply now for Front-End or Back-End teams and embark on a fast recruitment process for your internship journey.
-Keywords: Oracle, SQL, Java
-location: Iasi
-Seniority: Junior Level
+*title*: DB Developer
+*description*: Apply now for Front-End or Back-End teams and embark on a fast recruitment process for your internship journey.
+*Keywords*: Oracle, SQL, Java
+*location*: Iasi
+*Seniority*: Junior Level
 layout: default
 ---
 
