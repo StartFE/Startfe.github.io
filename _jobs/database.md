@@ -30,3 +30,5 @@ We are looking for a junior DB Developer who will collaborate and grow with a te
  - Innovative — A team of smart colleagues that challenges status quo and shares a passion to innovate, be the best, and win.
  - Visionary — A place where you are expected to make an impact at all levels and to redefine the box — not just think outside of it.
  - Successful — An industry-leading, renown and respected company with huge market opportunities.
+
+some addition in file.
