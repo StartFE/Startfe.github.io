@@ -14,18 +14,18 @@ We are looking for a junior DB Developer who will collaborate and grow with a te
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### This is you:
+**This is you:**
  - Proactive — You are a collaborative team player who likes to build on ideas and innovate.
  - Agile — You are an agile planner who delivers fast results, quickly learns and continuously drives improvements.
  - Detail-oriented – You love being “down in the weeds” with the details of your work.
  - Self-motivated – You’ve figured out how to continuously develop yourself and meet certain standards which help your daily work.
 
-### This is what you’ve done:
+**This is what you’ve done:**
  - Worked with and have a good understanding of how to use JavaScript, CSS and HTML in your projects.
  - Played with at least one of the modern JS Frameworks like Angular, React or Vue.js.
  - Have a good understanding of how the web works.
 
-### This is us:
+**This is us:**
  - Entrepreneurial — An entrepreneurial culture where you are encouraged to try new ideas and to quickly fail in the spirit of innovation and continuous improvement.
  - Innovative — A team of smart colleagues that challenges status quo and shares a passion to innovate, be the best, and win.
  - Visionary — A place where you are expected to make an impact at all levels and to redefine the box — not just think outside of it.
