@@ -515,17 +515,19 @@ hr {
 }
 
 .job-details-data2 > p {
-    font-weight: normal;
-    font-size: 2vw;
+    font-weight: 400;
+    font-size: 2vmax;
     line-height: 1.75;
     font-style: normal;
     color: #000000;
 }
 
+ 
+
 @media screen and (max-width:480px){
     .job-details-data2 > ul {
         font-weight: 400;
-        font-size: 1.66vw;
+        font-size: 1.66vmax;
         line-height: 1.75;
         font-style: normal;
         color: #000000;
@@ -538,7 +540,7 @@ hr {
 @media screen and (max-width: 1100px) and (min-width: 481px){
     .job-details-data2 > ul {
         font-weight: 400;
-        font-size: 1.66vw;
+        font-size: 1.66vmax;
         line-height: 1.75;
         font-style: normal;
         color: #000000;
@@ -549,12 +551,14 @@ hr {
     } 
 } 
 
+ 
 
+ 
 
 @media screen and (min-width:1101px){
     .job-details-data2 > ul {
         font-weight: 400;
-        font-size: 1.66vw;
+        font-size: 1.66vmax;
         line-height: 1.75;
         font-style: normal;
         color: #000000;
@@ -565,9 +569,10 @@ hr {
     } 
 }
 
+ 
+
 .job-details-data2 > ul > ::marker {
     font: icon;
-
     }
 
     .logo-container2 .job-title{
