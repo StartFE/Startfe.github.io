@@ -117,13 +117,13 @@ body {
 #shr_pg_landing{
     /*font-style: normal;*/
 /*font-weight: normal;*/
-font-size: 1.25vw;
+font-size: 1.52vmax;
 /*line-height: 175%;*/
 /* or 28px */
-
+margin-top:20%;
 text-decoration-line: underline;
 /*font-variant: small-caps;*/
-font-weight: 100;
+font-weight: 600;
 
 color: #000000;
 /*margin-left:80%; */
