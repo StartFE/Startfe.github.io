@@ -105,7 +105,7 @@ body {
 @media screen and (max-width:640px){
    .share-link-home_landing{
     display: flex;
-    justify-content: space-evenly;
+   /* justify-content: space-evenly; */
     padding-left:10%;
     padding-right: 10%;
     padding-bottom: 3.5%;
