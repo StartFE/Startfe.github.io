@@ -105,7 +105,6 @@ body {
 @media screen and (max-width:640px){
    .share-link-home_landing{
     display: flex;
-    font-weight: 600;
     justify-content: space-evenly;
     padding-left:10%;
     padding-right: 10%;
@@ -123,7 +122,7 @@ font-size: 1.52vmax;
 margin-top:20%;
 text-decoration-line: underline;
 /*font-variant: small-caps;*/
-font-weight: 600;
+font-weight: 400;
 
 color: #000000;
 /*margin-left:80%; */
