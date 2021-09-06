@@ -243,7 +243,21 @@ margin-left: 1.5%;
 text-decoration: none;
 }
 
-.job-descr{
+@media screen and (max-width:640px){
+    .job-descr{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    font-size: 1.70vmax;
+    line-height: 1.75;
+    margin-right: 10%;
+    margin-top: -2%;
+    color: #000000;
+}
+}
+
+@media screen and (min-width:641px){
+    .job-descr{
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -251,6 +265,7 @@ text-decoration: none;
     line-height: 1.75;
     margin-right: 10%;
     color: #000000;
+}
 }
 
 @media screen and (max-width:640px){
