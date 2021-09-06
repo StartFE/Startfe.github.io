@@ -228,6 +228,7 @@ color: #FDB724;
 .job-block{
     display: flex;
     align-items : center;
+    margin-top: 5%;
 }
 
 .job-block > a{
