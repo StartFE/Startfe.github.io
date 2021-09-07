@@ -473,10 +473,12 @@ color:rgba(0, 0, 0, 0.75);
 
 #Homepage .banner2{
     background: url('/assets/images/banner-image-second-page.png');
-   background: url('/assets/images/banner-image-second-page.png');
-   background-repeat: no-repeat; 
-   background-size: 100% 110%;
-  /*background-size: contain;*/
+   background-repeat: no-repeat;
+   background-size: cover;
+  padding-bottom: 2.5%;
+  padding-right: 2%;
+  min-width: max-content;
+  max-width: 100%;
  }
 
  .banner2 .sec1{
