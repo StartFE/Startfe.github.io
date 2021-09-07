@@ -642,7 +642,7 @@ hr {
     .logo-container2 .job-title{
         line-height: 100%;
         padding-top: 1%;
-        font-size: 4vw;
+        font-size: 4vmax;
         margin-left: -1.5%;
     
     }
