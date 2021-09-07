@@ -12,7 +12,9 @@ We are an engineering company building products that enable agile companies to i
 
 We are looking for a junior DB Developer who will collaborate and grow with a team building complex user interfaces and specific components for a new software product.
 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **This is you:**
  - Proactive — You are a collaborative team player who likes to build on ideas and innovate.
