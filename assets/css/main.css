@@ -494,17 +494,35 @@ color:rgba(0, 0, 0, 0.75);
     flex-direction: column;
 }
 
-.logo-container2 .company-logo{
+@media screen and (max-width:640px){
+    .logo-container2 .company-logo{
     margin-left: 10%;
     margin-top: 4%;
+    margin-bottom: 5%;
     /*width: 174px;
     height: 38px;*/
-    width: 32vw;
-    height: 8vh;
+    width: 32vmax;
+    height: 8vmin;
     background: url(/assets/images/Layer1.svg);
     background-repeat: no-repeat;
     background-size: contain;
 }
+}
+
+@media screen and (min-width:641px){
+    .logo-container2 .company-logo{
+    margin-left: 10%;
+    margin-top: 4%;
+    /*width: 174px;
+    height: 38px;*/
+    width: 32vmax;
+    height: 8vmin;
+    background: url(/assets/images/Layer1.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+}
+
 
 .logo-container2 #job-info{
     flex: 1 1 auto;
