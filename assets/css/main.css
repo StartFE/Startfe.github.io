@@ -243,6 +243,8 @@ margin-left: 1.5%;
 text-decoration: none;
 }
 
+.job-block a:hover { text-decoration: underline; }
+
 @media screen and (max-width:640px){
     .job-descr{
     font-style: normal;
